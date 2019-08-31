@@ -1,4 +1,4 @@
-# 7506_20192C
+## 7506_20192C
 
-## Organización de Datos - FIUBA - 2 Cuatrimestre de 2019
+### Organización de Datos - FIUBA - 2 Cuatrimestre de 2019
 
