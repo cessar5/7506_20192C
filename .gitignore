@@ -1,2 +1,5 @@
-# Ignorar CSVs
+# Ignorar carpeta Data
 data
+
+# Ignorar carpeta
+.ipynb_checkpoints
