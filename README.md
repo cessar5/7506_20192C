@@ -10,4 +10,3 @@
 | Nieva, Nicolás |  101067 |
 | Romero Vázquez, Maximiliano |  99118 |
 
-Link Kaggle: https://www.kaggle.com/maxiromero/analisisdatos-zonaprop
